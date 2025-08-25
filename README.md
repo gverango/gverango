@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">My projects,</h3>
+<h3 align="left">Click on my projects to see my code</h3>
 
 ###
 <!-- Row 1 -->
@@ -37,7 +37,7 @@
       <a href="https://github.com/gverango/unity-day-visual-novel">
         <img width="512" height="329" alt="interactive-visual-novel" src="https://github.com/user-attachments/assets/2eab0fbf-4b83-4da4-8051-64c17848876f" />
       </a>
-      <br><sub>Interactive Visual Novel "Rocky the Ram Dating Sim" (JavaScript, HTML/CSS, Group Project)</sub>
+      <br><sub>Interactive Visual Novel "Rocky the Ram Dating Sim" (JavaScript, HTML/CSS, Group Project) - https://gverango.github.io/unity-day-visual-novel/ </sub>
     </td>
     <td align="center">
       <a href="https://github.com/gverango/TaskTaka">
@@ -49,7 +49,7 @@
       <a href="https://github.com/ccsf-cs-club/ccsf-cs-club">
         <img width="1600" height="784" alt="cs-club-website" src="https://github.com/user-attachments/assets/d229165e-5dd7-474b-bd76-bfe36d645c5e" />
       </a>
-      <br><sub>CCSF CS Club Website (Community Contributor, JS, Astro, Daisy UI)</sub>
+      <br><sub>CCSF CS Club Website (Community Contributor, JS, Astro, Daisy UI) - https://ccsf-cs.club/ </sub>
     </td>
     <td align="center">
       <a href="https://github.com/gverango/">
@@ -67,13 +67,13 @@
       <a href="https://github.com/gverango/escape-room">
        <img width="1600" height="738" alt="escape-room" src="https://github.com/user-attachments/assets/8ebee945-7236-44c6-8b39-625e203614b8" />
       </a>
-      <br><sub>Escape Room Webapp for Web Development Learning (JavaScript, Real Time Firebase Database)</sub>
+      <br><sub>Escape Room Webapp for Web Development Learning (JavaScript, Real Time Firebase Database) - https://escape-room-webapp.web.app/ </sub>
     </td>
     <td align="center">
       <a href="https://github.com/gverango/sea-project-summer-2025">
       <img width="1600" height="712" alt="pokepulls" src="https://github.com/user-attachments/assets/176c7d34-dc18-4c2f-9cb7-5a1f419c7087" />
       </a>
-      <br><sub>Gacha Pokémon Simulator (JavaScript, HTML/CSS, Application Project)</sub>
+      <br><sub>Gacha Pokémon Simulator (JavaScript, HTML/CSS, Application Project) - https://gverango.github.io/sea-project-summer-2025/</sub>
     </td>
     <td align="center">
       <a href="https://github.com/MoofSoup/StartupEvaluator">
