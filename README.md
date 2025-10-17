@@ -110,10 +110,19 @@
 
 
 ###
-
+<div align="center"
 <h3 align="center">find me ⌯⌲</h3>
 <p align="center">
 <a href="https://linkedin.com/in/gevilee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gevilee/" height="30" width="40" /></a>
 <a href="https://instagram.com/gevi.mari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gevi.mari" height="30" width="40" /></a>
 <a href="https://discord.gg/anemari9313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anemari9313" height="30" width="40" /></a>
+
+### 
+
+<img width="700" height="400" alt="Untitled158_20251016070220" src="https://github.com/user-attachments/assets/61b181d1-552b-41f3-9601-b3ddd43a9256" />
+<img width="700" height="400" alt="Untitled159_20251016070235" src="https://github.com/user-attachments/assets/90b073cd-e267-4ed0-8318-0987f319a70f" />
+
+
+</div>
 </p>
+
